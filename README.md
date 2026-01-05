@@ -12,3 +12,5 @@ AlphaWaveDetector initializes to 10Hz as those are alpha waves from physics
 In the convolved return type from AlphaWaveDetector, if the value is high we know that we are detecting alpha waves.
 
 Currently in the midst of figuring out what waves to detect since Muse does not detect PePs. Once this parametrization is figured out I can set the initial convolved filter to match that
+
+*Pooling needs to be implemented after making a FFT function*
